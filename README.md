@@ -1,2 +1,2 @@
-# Series-X-Controller-and-ConsoleEmulator
-Its in the name.
+# Series-X-Controller-Emulator
+This Emulator is for Windows Versions 10 and up ONLY.
